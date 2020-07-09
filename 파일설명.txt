@@ -1,0 +1,38 @@
+*피피티에 명시하였지만 혹시 몰라 여기에도 명시합니다!*
+
+
+1.메인화면
+index_21961030_김하은.html
+
+2.기획 서브 페이지
+Planning_page.html
+
+3.기획 컨텐츠 페이지(총 3장)
+Planning_content1.html
+Planning_content2.html
+Planning_content3.html
+
+4.디자인 서브 페이지
+Design_page.html
+
+5.디자인 컨텐츠 페이지(총 3장)
+Design_content1.html
+Design_content2.html
+Design_content3.html
+
+4.영상 서브 페이지
+Video_page.html
+
+5.영상 컨텐츠 페이지(총 3장)
+Video_content1.html
+Video_content2.html
+Video_content3.html
+
+5.영상 컨텐츠 페이지(1장)
+Programming_page.html
+
+6.컨택트 페이지
+Contact_page.html
+
+7.느낀점 
+feeling.html
